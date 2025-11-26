@@ -26,7 +26,7 @@ This project demonstrates how to **securely deploy a Zomato-like food delivery a
 ## 💻 Project Source Code  
 
 🔗 **Explore the Code Repository**:  
-[GitHub – Zomato Clone](https://github.com/NotHarshhaa/Zomato-Clone)  
+[GitHub – Zomato Clone]((https://github.com/Shwetali20/DevOps-Project-13))  
 
 ---
 
